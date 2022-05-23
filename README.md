@@ -1,4 +1,4 @@
--hello, hello
- yes, yes 
+-hello, hello;
+; yes, yes 
  alrighty.
       
